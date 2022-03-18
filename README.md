@@ -8,30 +8,35 @@ The purpose of this project is to use JavaScript, html, css and bootstrap to cre
 
 ## Results
 A visitor to this web page would use the filters to obtain specific data rather than read through the entire page.  The filter opportunities are displayed in the image below and include examples of text entry for each filter:
-![web page image]()
+![web page image](https://github.com/LauraZJ/UFOs/blob/main/static/images/full_page.png)
 
 ### Filter by Date
 The image below is the data filtered by a singe date.
-![datefilter]()
+
+![datefilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/DateFilter.png)
 
 ### Filter by City
 The image below is the data filtered by a chosen city.
-![cityfilter]()
+
+![cityfilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/CityFilter.png)
 
 ### Filter by State
 The image below is the data filtered by a selected state.
-![statefilter]()
+
+![statefilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/Statefilter.png)
 
 ### Filter by Country
 Given that our dataset only has US entries any filter choice of another country returns no data.  Otherwise, all the data is US data so nothing is filtered out.
+
 ### Filter by Shape
 The image below is the data filtered by a chosen shape.
-![shapefilter]()
+
+![shapefilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/Shapefilter.png)
 
 ### Multiple Filters
 In addition to the single filter options (displayed above), the user may use multiple filters to further narrow the data search.  In the example below, I have filtered by date, state, and shape.  A true UFO investigator would use this data to map out the data to determine potential for multiple sightings of the same UFO.
 
-![multipfilters]()
+![multipfilters](https://github.com/LauraZJ/UFOs/blob/main/static/images/multiplefilters.png)
 
 ## Summary
 ### Drawbacks
