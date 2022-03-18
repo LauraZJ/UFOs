@@ -26,7 +26,9 @@ The image below is the data filtered by a selected state.
 ![statefilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/Statefilter.png)
 
 ### Filter by Country
-Given that our dataset only has US entries any filter choice of another country returns no data.  Otherwise, all the data is US data so nothing is filtered out.
+Given that our dataset only has US entries any filter choice of another country returns no data.  Otherwise, all the data is US data so nothing is filtered out.  In the image below, I did filter by another country to show that no data was returned.
+
+![countryfilter](https://github.com/LauraZJ/UFOs/blob/main/static/images/CountryFilter.png)
 
 ### Filter by Shape
 The image below is the data filtered by a chosen shape.
